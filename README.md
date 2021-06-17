@@ -1,10 +1,10 @@
-# Responsive Webpage Design
-- [Hosted on github](https://meharima.github.io/gp-responsive-webpage-design/)
+# Personalized Webpage
+- [Hosted on github](https://dominicromanello.github.io/gp-edit/)
 
-# Resource 
+# Original Resource 
 - [GP resource](https://github.com/MehaRima/gp-responsive-webpage-design/releases/tag/Basic_template)
 
 
-### Thank You.
+### Thank You for Visiting
 
-_Saheli Basu_
+_Dominic Romanello_
